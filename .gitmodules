@@ -1,0 +1,4 @@
+[submodule "owned-private-submodule"]
+	path = owned-private-submodule
+	url = http://git@192.168.0.1:8080/PinkDraconianVictim/TEST_REPO_B
+	branch = main
